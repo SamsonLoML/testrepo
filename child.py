@@ -1,1 +1,1 @@
-Print("i am child")
+Print("i am child too")
